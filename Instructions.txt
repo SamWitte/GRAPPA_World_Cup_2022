@@ -1,0 +1,38 @@
+Welcome to the GRAPPA World Cup 2022 Gambling Pool, hosted by James & Sam!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+General Format:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This pool will be organized in two separate rounds, with the first round corresponding to the group stage and the second corresponding to the knockout stage. The final rankings of participants will be determined by the sum of the points earned in each of the rounds. 
+
+The group stage bracket will be due before kick-off of the first match, which is scheduled November 20 at 17 CET. The knockout stage bracket will become available near the end of the group stages, and will be due before kick-off of the first knock-out match, which is scheduled to begin at December 3 at 17h. 
+
+
+Group Stage:
+~~~~~~~~~~~~
+In the group stage you will be asked to provide the 1st, 2nd, 3rd and 4th place finishers of each group. You will be provided with 1 point for each correct answer. In addition, 1 bonus point will be awarded if you correctly guess the 1st place winner, and 1 bonus point will be awarded for the correct ordering of all 4 places. This leads to a maximum point total of 6 points per group.
+
+An example file has been bookmarked in the Slack channel #world_cup_2022. Please be careful when filling out the form to follow the instructions in the header! We do not take responsibility for brackets that are not correctly completed. If you want to be certain, you can test your bracket using the our point tracking tool found here: https://github.com/SamWitte/GRAPPA_World_Cup_2022. 
+
+After filling out your bracket, please send it to me on slack or via email (witte.sam@gmail.com), and re-name the file FirstName_LastName.dat (so mine would be, for example, Sam_Witte.dat).
+
+Knock-Out Stage:
+~~~~~~~~~~~~~~~
+In the knock-out stage you will be asked to choose the winner of each match (for the remainder of the tournament). The point distribution will be as follows:
+	Round of 16: 	 2 points per match
+	Quarter Finals:   4 points per match
+	Semi Finals: 	 8 points per match
+	3rd Place Match:  8 points 
+	Final: 		 16 points
+
+We will send out the knock-out brackets before the conclusion of the group stages.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stakes:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The buy-in for the World Cup pool will be 10€ per person, with the payout being:
+ - 60% for 1st place
+ - 30% for 2nd place
+ - 10% for 3rd place
+
+Participants can either pay in cash to Sam or James, or pay via tikkie (details to come).
