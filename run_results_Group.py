@@ -28,14 +28,14 @@ for i in range(len(file_ini)):
                 count = 0
                 group_points = 0
                 continue
-            else:
-                continue
+            elif len(get_chuncks[-1]) >= 3:
+                print(f"ERROR: Group name is not correct in {file_ini[i]}")
         elif get_chuncks == [""]:
             continue
         
         if found_group:
             # print(count, get_chuncks[-1], master_dic[keyW_group][count])
-            if get_chuncks[-1] == master_dic[keyW_group][count]:
+            if get_chuncks[-1].lower() == master_dic[keyW_group][count].lower():
                 group_points += point_per_order
                 if count == 0:
                     group_points += bonus_first
