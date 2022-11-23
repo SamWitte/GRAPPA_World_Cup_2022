@@ -1,0 +1,62 @@
+####### Group Stage ########
+# Rules:
+# Rank teams in each group according to how you think
+# they will finish after group stages, with the team
+# finishing first appearing first in the list.
+#
+# **Careful** Please take care with spelling! Do not
+# change the assigned names of each time.
+#
+# Format Instructions:
+# - There must be a space between the number and the name, otherwise it will not be read
+# - There are three special cases where an underscore in the name is needed:
+#   Saudi_Arabia, Costa_Rica, South_Korea
+# - The headers are necessary.
+
+# Group A
+1.) Netherlands
+2.) Ecuador
+3.) Qatar
+4.) Senegal
+
+# Group B
+1.) England
+2.) USA
+3.) Wales
+4.) Iran
+
+# Group C
+1.) Argentina
+2.) Poland
+3.) Mexico
+4.) Saudi_Arabia
+
+# Group D
+1.) France
+2.) Denmark
+3.) Tunisia
+4.) Australia
+
+# Group E
+1.) Spain
+2.) Germany
+3.) Japan
+4.) Costa_Rica
+
+# Group F
+1.) Belgium
+2.) Croatia
+3.) Canada
+4.) Morocco
+
+# Group G
+1.) Brazil
+2.) Switzerland
+3.) Cameroon
+4.) Serbia
+
+# Group H
+1.) Uruguay
+2.) Portugal
+3.) South_Korea
+4.) Ghana
