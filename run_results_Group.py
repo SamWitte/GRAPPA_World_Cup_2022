@@ -1,8 +1,9 @@
 import numpy as np
 import glob
 import os
-from master_group import *
-input_dir = "input_files/"
+from master_group_copy import *
+# from master_group import *
+input_dir = "GRAPPA_GroupStage/"
 
 point_per_order = 1
 bonus_first = 1
@@ -29,7 +30,8 @@ for i in range(len(file_ini)):
                 group_points = 0
                 continue
             elif len(get_chuncks[-1]) >= 3:
-                print(f"ERROR: Group name is not correct in {file_ini[i]}")
+                if get_chuncks[-1][0] != "#":
+                    print(f"ERROR: Group name is not correct in {file_ini[i]}")
         elif get_chuncks == [""]:
             continue
         
@@ -51,6 +53,16 @@ for i in range(len(file_ini)):
             
     final_results.append([file_ini[i][len(input_dir):-4], Point_Total])
 
-
+def Sort(sub_li):
+    l = len(sub_li)
+    for i in range(0, l):
+        for j in range(0, l-i-1):
+            if (sub_li[j][1] > sub_li[j + 1][1]):
+                tempo = sub_li[j]
+                sub_li[j]= sub_li[j + 1]
+                sub_li[j + 1]= tempo
+    return sub_li
+    
+final_results_sort = Sort(final_results)[::-1]
 for i in range(len(file_ini)):
-    print(final_results[i])
+    print(final_results_sort[i])

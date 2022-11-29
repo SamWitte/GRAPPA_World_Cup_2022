@@ -19,11 +19,12 @@ After filling out your bracket, please send it to me on slack or via email (witt
 Knock-Out Stage:
 ~~~~~~~~~~~~~~~
 In the knock-out stage you will be asked to choose the winner of each match (for the remainder of the tournament). The point distribution will be as follows:
-	Round of 16: 	 2 points per match
-	Quarter Finals:   4 points per match
-	Semi Finals: 	 8 points per match
-	3rd Place Match:  8 points 
-	Final: 		 16 points
+	Round of 16: 	 3 points per match
+	Quarter Finals:   6 points per match
+	Semi Finals: 	 12 points per match
+	Final: 		 24 points
+
+For a tie break you will be asked to predict the total number of goals scored by the winner of the Golden Boot.
 
 We will send out the knock-out brackets before the conclusion of the group stages.
 
