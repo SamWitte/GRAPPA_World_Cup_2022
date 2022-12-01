@@ -1,0 +1,17 @@
+master_dic = {
+"Game 1": "USA",
+"Game 2": "Australia",
+"Game 3": "Croatia",
+"Game 4": "Ghana",
+"Game 5": "Senegal",
+"Game 6": "Poland",
+"Game 7": "Japan",
+"Game 8": "Serbia",
+"Game 9": "USA",
+"Game 10": "Ghana",
+"Game 11": "Senegal",
+"Game 12": "Japan",
+"Game 13": "USA",
+"Game 14": "Senegal",
+"Game 15": "USA",
+}

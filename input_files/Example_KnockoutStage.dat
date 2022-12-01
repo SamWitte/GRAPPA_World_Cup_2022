@@ -1,0 +1,63 @@
+####### Knockout Stage ########
+# Rules:
+# Pick the winner of each game. The tie break is set by the total number of goals scored by the winner of the golden boot (i.e. the top goal scorer of the tournament)
+#
+# **Careful** Please take care with spelling! Do not
+# change the assigned names of each time.
+#
+# Format Instructions:
+# - There must be a space between the number and the name, otherwise it will not be read
+# - The headers are necessary.
+
+
+##### Round 1 ######
+# Game 1: USA vs. Netherlands
+USA
+
+# Game 2: Argentina vs. Australia
+Australia
+
+# Game 3: Spain [winner group E] vs. Croatia [2 group F]
+Croatia
+
+# Game 4: Brazil [winner group G] vs. Ghana [2 group H]
+Ghana
+
+# Game 5: England vs. Senegal
+Senegal
+
+# Game 6: France vs. Poland
+Poland
+
+# Game 7: Belgium [winner group F] vs. Japan [2 group E]
+Japan
+
+# Game 8: Portugal [winner group H] vs Serbia [2 group G]
+Serbia
+
+##### Quarters ######
+# Game 9: Winners of Game 1 and Game 2
+USA
+
+# Game 10: Winners of Game 3 and Game 4
+Ghana
+
+# Game 11: Winners of Game 5 and Game 6
+Senegal
+
+# Game 12: Winners of Game 7 and Game 8
+Japan
+
+##### Semis ######
+# Game 13: Winners of Game 9 and Game 10
+USA
+
+# Game 14: Winners of Game 11 and Game 12
+Senegal
+
+##### Final ######
+# Game 15: Winners of Game 13 and Game 14
+USA
+
+##### Tiebreak ######
+103
